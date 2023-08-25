@@ -8,6 +8,6 @@ Install [Eigen3](https://eigen.tuxfamily.org/)
 Run the following commands in your terminal to compile the code and run the example:
 
 ```bash
-    make             # to compile code
-    ./riccati_main   # to run example
+make             # to compile code
+./riccati_main   # to run example
 ```
