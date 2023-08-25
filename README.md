@@ -6,6 +6,6 @@ Install [Eigen3](https://eigen.tuxfamily.org/)
 
 ## Usage
 ```bash
-    make        # to compile code
-    ./riccati   # to run example
+    make             # to compile code
+    ./riccati_main   # to run example
 ```
